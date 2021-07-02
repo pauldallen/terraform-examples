@@ -1,4 +1,6 @@
 ![Hero](_header_/hero.png)
+
+[![HIPAA](https://app.soluble.cloud/api/v1/public/badges/ce69de9d-7782-47cc-b82e-8182339173a7.svg)](https://app.soluble.cloud/repos/details/github.com/pauldallen/terraform-examples)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/1dc20b1c-9356-4339-a200-989ad12d5c9b.svg)](https://app.soluble.cloud/repos/details/github.com/pauldallen/terraform-examples)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/0429b106-6008-4bf2-a3e4-4f73639de644.svg)](https://app.soluble.cloud/repos/details/github.com/pauldallen/terraform-examples)  
  
 # Repository containing various Terraform code
  
